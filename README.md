@@ -9,7 +9,7 @@ Projeto místico criado para trolagem dos amigos (Nascimento, Fábio, Paulo, Ric
 
 ## Funcionalidades
 
-- Digitação oculta com invocaçõe místicas
+- Digitação oculta com invocações místicas
 - Alterna entre modos com TAB e ENTER
 - Reponde com a mensagem secreta
 
