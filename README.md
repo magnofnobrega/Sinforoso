@@ -1,4 +1,4 @@
-# SINFOROSO
+# SINFOROSO - O Oráculo Digital
 
 Projeto místico criado para trolagem dos amigos (Nascimento, Fábio, Paulo, Rick e ALhan). Com perguntas e respostas. inspirados no cabuloso programa de disquete de 1900...rs, quem viveu essa época com certeza viverá uma nostalgia da t.i.
 
@@ -8,9 +8,9 @@ Projeto místico criado para trolagem dos amigos (Nascimento, Fábio, Paulo, Ric
 2. Rode o programa: 'python main.py'
 
 ## Funcionalidades
-
-- Digitação oculta com invocações místicas
-- Alterna entre modos com TAB e ENTER
+- Captura de Texto com tratamento de BACKSPACE, ENTER e TAB
+- Digitação em tempo real no terminal
+- Modularização com boas práticas
 - Reponde com a mensagem secreta
 
 ## Autor
