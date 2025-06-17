@@ -13,10 +13,12 @@ Projeto místico criado para trolagem dos amigos (Nascimento, Fábio, Paulo, Ric
 - Modularização com boas práticas
 - Reponde com a mensagem secreta
 
+---
+
 ## Autor
 
 **Magno Furtado Nóbrega**
 
-Email: magnofnobrega@outlook.com
-LinkedIN: https://linkedin.com.br/in/magnofnobrega
-GitHub: https://github.com/magnofnobrega
+Email: [magnofnobrega@outlook.com](mailto:magnofnobrega@outlook.com)
+LinkedIN: [https://linkedin.com.br/in/magnofnobrega](https://linkedin.com.br/in/magnofnobrega)
+GitHub: [https://github.com/magnofnobrega](https://github.com/magnofnobrega)
